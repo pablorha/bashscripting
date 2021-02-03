@@ -27,6 +27,7 @@ brew install --cask
     the-unarchiver
     transmission
     virtualbox
+    virtualbox-extension-pack
     visual-studio-code
     vlc
     whatsapp
